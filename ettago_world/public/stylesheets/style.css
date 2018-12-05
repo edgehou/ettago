@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+p {
+  margin-bottom: 20px;
+  color: blueviolet;
+}
